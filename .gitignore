@@ -1,0 +1,25 @@
+# Obsidian config (sync settings across devices)
+.obsidian/
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/graph.json
+!.obsidian/hotkeys.json
+!.obsidian/templates.json
+!.obsidian/types.json
+!.obsidian/workspace.json
+
+# Obsidian snippets
+!.obsidian/snippets/
+
+# Plugins
+!.obsidian/plugins/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Workspace cache
+.obsidian/workspace-mobile.json
+.trash/

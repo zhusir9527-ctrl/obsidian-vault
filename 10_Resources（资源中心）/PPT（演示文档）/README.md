@@ -1,0 +1,20 @@
+---
+tags: [Resource, Whitepaper, PPT, Link]
+parent: "10_Resources（资源中心）"
+created: 2026-06-04
+---
+
+# PPT（演示文档）
+
+## 所属目录
+[[../README|10_Resources（资源中心）]]
+
+## 内容范围
+PPT 相关内容。
+
+## 文件命名规范
+`2026-06-04_主题名称.md`
+
+## Agent 归档规则
+- 根据内容标签自动匹配到此目录
+- 需人工最终确认归档位置
